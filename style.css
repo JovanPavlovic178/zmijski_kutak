@@ -231,10 +231,10 @@ footer h2{
 #ja img{
         width:400px;
 	height:400px;
+	border-radius:50%;
 }
 
 #ja {
-	border-radius:50%;
 	width:400px;
 	height:400px;
 	margin-left:200px;
